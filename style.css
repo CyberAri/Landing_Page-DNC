@@ -33,7 +33,26 @@
     margin: 50px 0px 50px 100px;
     padding: 25px;
 }
+#secaovideo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
 .textoinformativo{
     display: flex;
     align-items: center;
+   
+}
+#titulovideo{
+    color:#247BA0;
+    margin-left: 75px;
+    margin-top: 50px;
+    
+}
+#textovideo {
+    margin-left: 75px;
+}
+#video{
+    margin: 50px 25px 50px 100px;
 }
